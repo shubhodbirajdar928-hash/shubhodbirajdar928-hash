@@ -1,6 +1,6 @@
 <!-- Sleek Modern Centered Profile with Photo & Accomplished Projects -->
 <p align="center">
-  <img src="./profile_picture.jpg" width="180px" alt="Shubhod Birajdar" />
+  <img src="./profile_picture.png" width="180px" alt="Shubhod Birajdar" />
 </p>
 
 <h1 align="center">Hi there, I'm Shubhod! 👋</h1>
