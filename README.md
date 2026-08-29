@@ -26,6 +26,10 @@
 </p>
 
 <p align="center">
+  📧 <b>Email:</b> <a href="mailto:shubhodbirajdar928@gmail.com">shubhodbirajdar928@gmail.com</a>
+</p>
+
+<p align="center">
   A Software Engineer and AI Enthusiast passionate about writing clean code and developing intelligent systems. I specialize in building explainable AI platforms, computer vision applications, and full-stack solutions.
 </p>
 
