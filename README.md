@@ -1,110 +1,46 @@
-<!-- Cyberpunk Theme GitHub Profile README -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=F700FF&background=0A0A1200&center=true&vCenter=true&width=600&height=100&lines=%E2%96%BE+SYSTEM+INITIALIZED...;%E2%96%BE+WELCOME+TO+MY+PROFILE;%E2%96%BE+I+AM+SHUBHOD;%E2%96%BE+BUILDING+THE+FUTURE;" alt="Typing SVG" />
-  </a>
-</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OS-Linux%20%7C%20Windows-00ffcc?style=flat-square&logo=linux&logoColor=black" alt="OS Badge" />
-  <img src="https://img.shields.io/badge/Status-Hacking%20The%20Matrix-ff0055?style=flat-square&logo=matrix&logoColor=white" alt="Status Badge" />
-  <img src="https://img.shields.io/badge/Location-Cyberspace-00e5ff?style=flat-square&logo=google-maps&logoColor=black" alt="Location Badge" />
-</p>
-
----
-
-### 💻 System Terminal
-
-```bash
-$ cat bio.json
-```
-```json
-{
-  "name": "Shubhod",
-  "role": "Developer / Software Engineer",
-  "interests": ["Web3", "Cybersecurity", "AI/ML", "Automation"],
-  "currently_learning": "Advanced System Design & Distributed Networks",
-  "fun_fact": "I compile my code and my coffee with equal intensity."
-}
-```
-
----
-
-### 🛠️ Tech Grid (Arsenal)
+# Hi there, I'm Shubhod! 👋
 
 <p align="left">
-  <!-- Languages -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=2000&color=00ADB5&background=0A0A1200&center=false&vCenter=true&width=500&height=50&lines=Software+Engineer;Building+scalable+systems;Open-source+enthusiast" alt="Typing SVG" />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" />
-  </a>
-  <a href="https://golang.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="go" />
-  </a>
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="rust" />
-  </a>
-  
-  <br/>
-  
-  <!-- Frameworks & Tools -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
-  </a>
-  <a href="https://docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
-  </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes" />
-  </a>
+</p>
+
+I am a passionate Software Engineer focused on writing clean, efficient, and well-tested code. I enjoy building modern web applications, optimizing database performance, and working with cloud-native technologies.
+
+---
+
+### 🚀 About Me
+
+- 🔭 **Current Focus:** Developing high-performance microservices and REST APIs.
+- ⚙️ **Workflow:** Test-driven development, continuous integration, and containerized deployments.
+- 🎓 **Always Learning:** Exploring distributed systems, Kubernetes orchestration, and Golang patterns.
+- 💬 **Ask Me About:** JavaScript/TypeScript, backend architectures, and database optimizations.
+
+---
+
+### 🛠️ My Tech Stack
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| **Frameworks** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhodbirajdar928-hash&show_icons=true&theme=nord&count_private=true&hide_border=true" alt="Shubhod's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhodbirajdar928-hash&layout=compact&theme=nord&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
 ---
 
-### 📊 Diagnostics (System Analytics)
+### 🤝 Get in Touch
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhodbirajdar928-hash&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Shubhod's GitHub stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhodbirajdar928-hash&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs" height="180px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhodbirajdar928-hash&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180px" />
-</p>
-
----
-
-### 🏆 Hall of Achievements
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shubhodbirajdar928-hash&theme=tokyonight&no-bg=true&no-frame=true&column=7" alt="github profile trophy" />
-  </a>
-</p>
-
----
-
-### ⚡ Signal (Contact)
-
-<p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</p>
+*   **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+*   **Email:** [your.email@example.com](mailto:your.email@example.com)
+*   **Twitter:** [twitter.com/YOUR_TWITTER_USERNAME](https://twitter.com/YOUR_TWITTER_USERNAME)
