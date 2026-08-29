@@ -1,6 +1,6 @@
 <!-- Sleek Modern Centered Profile with Photo & Accomplished Projects -->
 <p align="center">
-  <img src="https://github.com/shubhodbirajdar928-hash.png" width="180px" style="border-radius: 50%;" alt="Shubhod Birajdar" />
+  <img src="./profile_picture.jpg" width="180px" alt="Shubhod Birajdar" />
 </p>
 
 <h1 align="center">Hi there, I'm Shubhod! 👋</h1>
