@@ -1,23 +1,35 @@
-<!-- Sleek Modern Dark Profile with Photo & Accomplished Projects -->
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td align="center" valign="middle" width="30%">
-      <img src="https://github.com/shubhodbirajdar928-hash.png" width="160px" style="border-radius: 50%; border: 3px solid #00ADB5;" alt="Shubhod Birajdar" />
-    </td>
-    <td valign="middle" width="70%" style="padding-left: 20px;">
-      <h1>Hi there, I'm Shubhod! 👋</h1>
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=2000&color=00ADB5&background=0A0A1200&center=false&vCenter=true&width=450&height=40&lines=Software+Engineer;AI+%2F+ML+Developer;Building+Intelligent+Systems" alt="Typing SVG" />
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- Sleek Modern Centered Profile with Photo & Accomplished Projects -->
+<p align="center">
+  <img src="https://github.com/shubhodbirajdar928-hash.png" width="180px" style="border-radius: 50%;" alt="Shubhod Birajdar" />
+</p>
+
+<h1 align="center">Hi there, I'm Shubhod! 👋</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=2000&color=00ADB5&background=0A0A1200&center=true&vCenter=true&width=500&height=50&lines=Software+Engineer;AI+%2F+ML+Developer;Building+Intelligent+Systems" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  A Software Engineer and AI Enthusiast passionate about writing clean code and developing intelligent systems. I specialize in building explainable AI platforms, computer vision applications, and full-stack solutions.
+</p>
 
 ---
 
 ### 🚀 About Me
-
-I am a Software Engineer and AI Enthusiast passionate about writing clean code and developing intelligent systems. I specialize in building explainable AI systems, interactive full-stack platforms, and automating real-world problem-solving workflows.
 
 - 🔭 **Current Focus:** Deepening my knowledge in explainable AI, computer vision, and scalable system design.
 - ⚙️ **Workflow:** Test-driven development, continuous integration, and containerized deployments.
@@ -68,11 +80,3 @@ Here are some of the key platforms I've designed and built:
   <img src="https://github-readme-stats.vercel.app/api?username=shubhodbirajdar928-hash&show_icons=true&theme=nord&count_private=true&hide_border=true" alt="Shubhod's GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhodbirajdar928-hash&layout=compact&theme=nord&hide_border=true" alt="Top Languages" height="165" />
 </p>
-
----
-
-### 🤝 Get in Touch
-
-*   **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-*   **Email:** [your.email@example.com](mailto:your.email@example.com)
-*   **Twitter:** [twitter.com/YOUR_TWITTER_USERNAME](https://twitter.com/YOUR_TWITTER_USERNAME)
