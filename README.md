@@ -79,7 +79,17 @@ Here are some of the key platforms I've designed and built:
 
 ### 📊 GitHub Activity & Metrics
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shubhodbirajdar928-hash&show_icons=true&theme=nord&count_private=true&hide_border=true" alt="Shubhod's GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhodbirajdar928-hash&layout=compact&theme=nord&hide_border=true" alt="Top Languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhodbirajdar928-hash&theme=nord&hide_border=true" alt="GitHub Streak" height="165" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shubhodbirajdar928-hash&theme=nord&no-bg=true&no-frame=true&column=7" alt="GitHub Trophies" />
+  </a>
 </p>
