@@ -3,7 +3,7 @@
   <img src="./profile_picture.png" width="180px" alt="Shubhod Birajdar" />
 </p>
 
-<h1 align="center">Hi there, I'm Shubhod! 👋</h1>
+<h1 align="center">SHUBHOD BIRAJDAR</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
