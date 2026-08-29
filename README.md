@@ -25,7 +25,6 @@
   </a>
 </p>
 
-
 <p align="center">
   A Software Engineer and AI Enthusiast passionate about writing clean code and developing intelligent systems. I specialize in building explainable AI platforms, computer vision applications, and full-stack solutions.
 </p>
@@ -43,26 +42,40 @@
 
 ### 🏆 Featured Accomplishments & Projects
 
-Here are some of the key platforms I've designed and built:
-
-#### 1. [JunctionGuard-AI 🚨](https://github.com/shubhodbirajdar928-hash/JunctionGuard-AI)
-> **Explainable AI system for scoring accident-prone road junctions in India.**
-*   Developed real-time YOLOv8 CCTV video analytics to monitor traffic safety.
-*   Built interactive hazard maps and a 5-factor risk scoring algorithm.
-*   Equipped with a citizen-facing hazard reporting system. Built for the **OMNIKON Hackathon**.
-*   *Stack:* Python, YOLOv8, JavaScript, Geolocation APIs.
-
-#### 2. [CareerVerse-AI 💼](https://github.com/shubhodbirajdar928-hash/CareerVerse-AI)
-> **All-in-one AI Career Intelligence Platform.**
-*   Provides personalized, dynamically generated learning roadmaps and side-by-side career track comparisons.
-*   Includes an ATS resume evaluator to scan resumes for key target-role keywords.
-*   Integrates an interactive ChatGPT-based Career Mentor chatbot.
-*   *Stack:* Python, OpenAI API, Web Scraping, Streamlit.
-
-#### 3. [VidhiDrishti ⚖️](https://github.com/shubhodbirajdar928-hash/VidhiDrishti)
-> **Modern Legal Tech Platform.**
-*   A customized application providing visual search, case tracking, or document analysis.
-*   *Stack:* TypeScript, React, Tailwind CSS.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚨 <a href="https://github.com/shubhodbirajdar928-hash/JunctionGuard-AI">JunctionGuard-AI</a></h3>
+      <p><b>Explainable AI traffic safety scoring system for Indian road junctions.</b></p>
+      <ul>
+        <li>Real-time YOLOv8 CCTV video analytics to monitor traffic safety.</li>
+        <li>Interactive hazard maps & 5-factor risk scoring.</li>
+        <li>Built for the <b>OMNIKON Hackathon</b>.</li>
+      </ul>
+      <p><i>Tech Stack: Python, YOLOv8, JavaScript, Geolocation APIs</i></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💼 <a href="https://github.com/shubhodbirajdar928-hash/CareerVerse-AI">CareerVerse-AI</a></h3>
+      <p><b>All-in-one AI Career Intelligence Platform.</b></p>
+      <ul>
+        <li>Personalized learning roadmaps & career path comparisons.</li>
+        <li>ATS resume evaluator & keyword scanner.</li>
+        <li>Interactive ChatGPT-based Career Mentor chatbot.</li>
+      </ul>
+      <p><i>Tech Stack: Python, OpenAI API, Streamlit, Web Scraping</i></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>⚖️ <a href="https://github.com/shubhodbirajdar928-hash/VidhiDrishti">VidhiDrishti</a></h3>
+      <p><b>Modern Legal Tech Platform.</b></p>
+      <ul>
+        <li>A customized application providing visual legal search, case tracking, or document analysis.</li>
+      </ul>
+      <p><i>Tech Stack: TypeScript, React, Tailwind CSS</i></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -79,17 +92,26 @@ Here are some of the key platforms I've designed and built:
 
 ### 📊 GitHub Activity & Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhodbirajdar928-hash&show_icons=true&theme=nord&count_private=true&hide_border=true" alt="Shubhod's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhodbirajdar928-hash&layout=compact&theme=nord&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhodbirajdar928-hash&theme=nord&hide_border=true" alt="GitHub Streak" height="165" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shubhodbirajdar928-hash&theme=nord&no-bg=true&no-frame=true&column=7" alt="GitHub Trophies" />
-  </a>
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td valign="top" width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=shubhodbirajdar928-hash&show_icons=true&theme=nord&count_private=true&hide_border=true" alt="GitHub Stats" width="100%" />
+    </td>
+    <td valign="top" width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhodbirajdar928-hash&layout=compact&theme=nord&hide_border=true" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhodbirajdar928-hash&theme=nord&hide_border=true" alt="GitHub Streak" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" align="center">
+      <br/>
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=shubhodbirajdar928-hash&theme=nord&no-bg=true&no-frame=true&column=7" alt="GitHub Trophies" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
