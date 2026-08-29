@@ -12,6 +12,11 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shubhodbirajdar928-hash&color=00ADB5&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/shubhodbirajdar928-hash?style=flat-square&color=00ADB5&label=Followers" alt="Followers" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/shubhod-birajdar-90b5a832a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
