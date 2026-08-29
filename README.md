@@ -1,33 +1,41 @@
-<!-- Sleek Modern Centered Profile with Photo & Accomplished Projects -->
-<p align="center">
-  <img src="./profile_picture.png" width="180px" alt="Shubhod Birajdar" />
-</p>
+<!-- Premium Sleek Dark Developer Profile Card -->
+<div align="center">
 
-<h1 align="center">SHUBHOD BIRAJDAR</h1>
+  <!-- Profile Photo -->
+  <img src="./profile_picture.png" width="160px" alt="SHUBHOD BIRAJDAR" />
 
-<p align="center">
+  <!-- Name & Title -->
+  <h1>SHUBHOD BIRAJDAR</h1>
+  
+  <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=2000&color=00ADB5&background=0A0A1200&center=true&vCenter=true&width=500&height=50&lines=Software+Engineer;AI+%2F+ML+Developer;Building+Intelligent+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=2000&color=00ADB5&background=0A0A1200&center=true&vCenter=true&width=450&height=40&lines=Software+Engineer;AI+%2F+ML+Developer;Building+Intelligent+Systems" alt="Typing SVG" />
   </a>
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhodbirajdar928-hash&color=00ADB5&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/shubhodbirajdar928-hash?style=flat-square&color=00ADB5&label=Followers" alt="Followers" />
-</p>
+  <!-- Live Stats Badges (Views & Followers) -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=shubhodbirajdar928-hash&color=00ADB5&style=flat-square&label=Profile+Views" alt="Profile Views" />
+    &nbsp;
+    <img src="https://img.shields.io/github/followers/shubhodbirajdar928-hash?style=flat-square&color=00ADB5&label=Followers" alt="Followers" />
+  </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shubhod-birajdar-90b5a832a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:shubhodbirajdar928@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
+  <!-- Social Badges -->
+  <p>
+    <a href="https://www.linkedin.com/in/shubhod-birajdar-90b5a832a" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    </a>
+    &nbsp;
+    <a href="mailto:shubhodbirajdar928@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    </a>
+  </p>
 
-<p align="center">
-  A Software Engineer and AI Enthusiast passionate about writing clean code and developing intelligent systems. I specialize in building explainable AI platforms, computer vision applications, and full-stack solutions.
-</p>
+  <!-- Brief Pitch -->
+  <p>
+    <i>A Software Engineer and AI Enthusiast passionate about writing clean code and developing intelligent systems. I specialize in building explainable AI platforms, computer vision applications, and full-stack solutions.</i>
+  </p>
+
+</div>
 
 ---
 
@@ -40,46 +48,7 @@
 
 ---
 
-### 🏆 Featured Accomplishments & Projects
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚨 <a href="https://github.com/shubhodbirajdar928-hash/JunctionGuard-AI">JunctionGuard-AI</a></h3>
-      <p><b>Explainable AI traffic safety scoring system for Indian road junctions.</b></p>
-      <ul>
-        <li>Real-time YOLOv8 CCTV video analytics to monitor traffic safety.</li>
-        <li>Interactive hazard maps & 5-factor risk scoring.</li>
-        <li>Built for the <b>OMNIKON Hackathon</b>.</li>
-      </ul>
-      <p><i>Tech Stack: Python, YOLOv8, JavaScript, Geolocation APIs</i></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💼 <a href="https://github.com/shubhodbirajdar928-hash/CareerVerse-AI">CareerVerse-AI</a></h3>
-      <p><b>All-in-one AI Career Intelligence Platform.</b></p>
-      <ul>
-        <li>Personalized learning roadmaps & career path comparisons.</li>
-        <li>ATS resume evaluator & keyword scanner.</li>
-        <li>Interactive ChatGPT-based Career Mentor chatbot.</li>
-      </ul>
-      <p><i>Tech Stack: Python, OpenAI API, Streamlit, Web Scraping</i></p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>⚖️ <a href="https://github.com/shubhodbirajdar928-hash/VidhiDrishti">VidhiDrishti</a></h3>
-      <p><b>Modern Legal Tech Platform.</b></p>
-      <ul>
-        <li>A customized application providing visual legal search, case tracking, or document analysis.</li>
-      </ul>
-      <p><i>Tech Stack: TypeScript, React, Tailwind CSS</i></p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Tech Stack & Arsenal
+### 🛠️ Tech Stack & Skills
 
 | Domain | Technologies |
 | :--- | :--- |
@@ -90,28 +59,48 @@
 
 ---
 
+### 🏆 Featured Projects & Accomplishments
+
+*   ### 🚨 [JunctionGuard-AI](https://github.com/shubhodbirajdar928-hash/JunctionGuard-AI)
+    > Explainable AI traffic safety scoring system for Indian road junctions.
+    *   Developed real-time YOLOv8 CCTV video analytics to monitor traffic safety.
+    *   Built interactive hazard maps & 5-factor risk scoring.
+    *   Equipped with a citizen-facing hazard reporting system. Built for the **OMNIKON Hackathon**.
+    *   *Tech Stack:* Python, YOLOv8, JavaScript, Geolocation APIs
+
+*   ### 💼 [CareerVerse-AI](https://github.com/shubhodbirajdar928-hash/CareerVerse-AI)
+    > All-in-one AI Career Intelligence Platform.
+    *   Provides personalized learning roadmaps & career path comparisons.
+    *   Includes an ATS resume evaluator & keyword scanner.
+    *   Integrates an interactive ChatGPT-based Career Mentor chatbot.
+    *   *Tech Stack:* Python, OpenAI API, Streamlit, Web Scraping
+
+*   ### ⚖️ [VidhiDrishti](https://github.com/shubhodbirajdar928-hash/VidhiDrishti)
+    > Modern Legal Tech Platform.
+    *   A customized application providing visual legal search, case tracking, or document analysis.
+    *   *Tech Stack:* TypeScript, React, Tailwind CSS
+
+---
+
 ### 📊 GitHub Activity & Metrics
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td valign="top" width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=shubhodbirajdar928-hash&show_icons=true&theme=nord&count_private=true&hide_border=true" alt="GitHub Stats" width="100%" />
-    </td>
-    <td valign="top" width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhodbirajdar928-hash&layout=compact&theme=nord&hide_border=true" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhodbirajdar928-hash&theme=nord&hide_border=true" alt="GitHub Streak" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top" align="center">
-      <br/>
-      <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=shubhodbirajdar928-hash&theme=nord&no-bg=true&no-frame=true&column=7" alt="GitHub Trophies" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  
+  <!-- Main stats side-by-side (natural width, no stretching) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhodbirajdar928-hash&show_icons=true&theme=nord&count_private=true&hide_border=true" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhodbirajdar928-hash&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
+
+  <br/><br/>
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhodbirajdar928-hash&theme=nord&hide_border=true" alt="GitHub Streak" />
+
+  <br/><br/>
+
+  <!-- Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shubhodbirajdar928-hash&theme=nord&no-bg=true&no-frame=true&column=7" alt="GitHub Trophies" />
+  </a>
+
+</div>
