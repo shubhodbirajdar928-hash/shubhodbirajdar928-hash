@@ -61,19 +61,28 @@
 
 ### 🏆 Featured Projects & Accomplishments
 
-*   ### 🚨 [JunctionGuard-AI](https://github.com/shubhodbirajdar928-hash/JunctionGuard-AI)
-    > Explainable AI traffic safety scoring system for Indian road junctions.
-    *   Developed real-time YOLOv8 CCTV video analytics to monitor traffic safety.
-    *   Built interactive hazard maps & 5-factor risk scoring.
-    *   Equipped with a citizen-facing hazard reporting system. Built for the **OMNIKON Hackathon**.
-    *   *Tech Stack:* Python, YOLOv8, JavaScript, Geolocation APIs
+*   ### 🛡️ [JunctionGuard AI](https://github.com/shubhodbirajdar928-hash/JUNCTIONGUARD--AI)
+    > Autonomous Road Hazard Intelligence & Surveillance Platform for Indian metropolitan corridors.
+    *   Real-time YOLOv8n + ByteTrack edge vision analytics on live CCTV streams.
+    *   100% explainable white-box 5-factor risk scoring with interactive spider radar charts.
+    *   Interactive GIS radar, accident density heatmaps & citizen hazard reporting with Supabase cloud evidence.
+    *   🔗 [**Live Demo**](https://junctionguard-ai-jxn1.onrender.com)
+    *   *Tech Stack:* Python, YOLOv8, Streamlit, Supabase, OpenStreetMap
 
-*   ### 💼 [CareerVerse-AI](https://github.com/shubhodbirajdar928-hash/CareerVerse-AI)
-    > All-in-one AI Career Intelligence Platform.
-    *   Provides personalized learning roadmaps & career path comparisons.
-    *   Includes an ATS resume evaluator & keyword scanner.
-    *   Integrates an interactive ChatGPT-based Career Mentor chatbot.
-    *   *Tech Stack:* Python, OpenAI API, Streamlit, Web Scraping
+*   ### 💰 [Buy or Wait](https://github.com/shubhodbirajdar928-hash/buy-or-wait)
+    > AI-Powered Personal Financial Affordability Agent.
+    *   Deterministic 90-day daily cash flow projection engine — zero LLM reliance for math.
+    *   Safety-first: mathematically guarantees balance never drops below user's minimum reserve.
+    *   Multimodal OCR extraction from invoices/bills & adversarial prompt injection defense.
+    *   *Tech Stack:* TypeScript, Python, React, FastAPI
+
+*   ### 🚨 [Rescue Food 911](https://github.com/shubhodbirajdar928-hash/Rescue-food-911)
+    > Emergency Hyper-Local Food Rescue Platform — turning closing-time restaurant surplus into 911 rescue missions.
+    *   Real-time expiry countdown timers, live ECG heartbeat monitor & Bollywood voice roaster.
+    *   Police radio walkie-talkie channels, Kitchen Dispatch Control Room & Hero gamification.
+    *   50–70% flat discounts on surplus meals — zero food waste, zero cooking cost loss.
+    *   🔗 [**Live Demo**](https://rescue-food-911.vercel.app/)
+    *   *Tech Stack:* JavaScript, React, Vite, Tailwind CSS, Web Speech API
 
 *   ### ⚖️ [VidhiDrishti](https://github.com/shubhodbirajdar928-hash/VidhiDrishti)
     > Modern Legal Tech Platform.
