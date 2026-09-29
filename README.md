@@ -103,21 +103,27 @@
 
 <div align="center">
   
-  <!-- Main stats side-by-side (natural width, no stretching) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhodbirajdar928-hash&show_icons=true&theme=nord&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <!-- Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhodbirajdar928-hash&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhodbirajdar928-hash&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhodbirajdar928-hash&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 
   <br/><br/>
 
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhodbirajdar928-hash&theme=nord&hide_border=true" alt="GitHub Streak" />
+  <!-- Streak Stats (using demolab — the maintained fork) -->
+  <img src="https://streak-stats.demolab.com/?user=shubhodbirajdar928-hash&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+  <br/><br/>
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhodbirajdar928-hash&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 
   <br/><br/>
 
   <!-- Trophies -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shubhodbirajdar928-hash&theme=nord&no-bg=true&no-frame=true&column=7" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=shubhodbirajdar928-hash&theme=tokyonight&no-bg=true&no-frame=true&column=7" alt="GitHub Trophies" />
   </a>
 
 </div>
+
