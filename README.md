@@ -76,6 +76,14 @@
     *   Multimodal OCR extraction from invoices/bills & adversarial prompt injection defense.
     *   *Tech Stack:* TypeScript, Python, React, FastAPI
 
+*   ### 💼 [CareerVerse AI](https://github.com/Saiprasad4194/CareerVerse)
+    > Universal AI Career Intelligence Platform with Confidential Computing & Privacy-First Architecture.
+    *   Personalized AI career roadmaps, ATS resume scoring with in-memory PII minimization & executive PDF exports.
+    *   Side-by-side career comparison engine, salary predictor with PPP adjustments across 195+ countries.
+    *   Interactive AI Career Mentor workspace, skill gap analysis & career reality check engine.
+    *   🔗 [**Live Demo**](https://career-verse-seven.vercel.app/)
+    *   *Tech Stack:* Python, Flask, Google Gemini AI, JavaScript, Chart.js
+
 *   ### 🚨 [Rescue Food 911](https://github.com/shubhodbirajdar928-hash/Rescue-food-911)
     > Emergency Hyper-Local Food Rescue Platform — turning closing-time restaurant surplus into 911 rescue missions.
     *   Real-time expiry countdown timers, live ECG heartbeat monitor & Bollywood voice roaster.
